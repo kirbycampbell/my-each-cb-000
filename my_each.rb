@@ -10,6 +10,3 @@ def my_each(array)
       array
   end
 end
-
-something = [1, 2, 3, 4, 5, 6, 7]
-my_each(something)
